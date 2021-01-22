@@ -1,11 +1,14 @@
 _repo: Tarzanin-pedot_64299
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Salonen, A. J.
     gutenberg_agent_id: '47715'
     url: http://www.gutenberg.org/2009/agents/47715
     wikipedia: https://fi.wikipedia.org/wiki/A._J._Salonen
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Burroughs, Edgar Rice
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/48
     wikipedia: https://en.wikipedia.org/wiki/Edgar_Rice_Burroughs
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64299#Tarzanin-pedot
 gutenberg_issued: '2021-01-15'
 gutenberg_type: Text
 identifiers:
