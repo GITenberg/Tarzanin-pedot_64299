@@ -1,0 +1,29 @@
+_repo: Tarzanin-pedot_64299
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Salonen, A. J.
+    gutenberg_agent_id: '47715'
+    url: http://www.gutenberg.org/2009/agents/47715
+    wikipedia: https://fi.wikipedia.org/wiki/A._J._Salonen
+creator:
+  author:
+    agent_name: Burroughs, Edgar Rice
+    birthdate: 1875
+    deathdate: 1950
+    gutenberg_agent_id: '48'
+    url: http://www.gutenberg.org/2009/agents/48
+    wikipedia: https://en.wikipedia.org/wiki/Edgar_Rice_Burroughs
+description: ''
+gutenberg_issued: '2021-01-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64299'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Tarzanin pedot
+url: http://www.gutenberg.org/ebooks/64299
